@@ -28,7 +28,7 @@ export const clientReviews = [
         position: 'Marketing Director at GreenLeaf',
         img: 'assets/review1.png',
         review:
-            'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+          'Working with Agung was transformative for our business. He revamped our website, making it modern, fast, and user-friendly. His precision and dedication to delivering quality are exceptional. I highly recommend him for any web development project.',
     },
     {
         id: 2,
@@ -36,15 +36,15 @@ export const clientReviews = [
         position: 'Founder of TechGear Shop',
         img: 'assets/review2.png',
         review:
-            'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+          'Agung’s expertise in web development took our e-commerce platform to the next level. The website is now more robust and scalable, and our online sales have noticeably improved. His work is outstanding.',
     },
     {
         id: 3,
         name: 'John Dohsas',
-        position: 'Project Manager at UrbanTech ',
+        position: 'Project Manager at UrbanTech',
         img: 'assets/review3.png',
         review:
-            'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+          'Agung exceeded our expectations. He tackled our complex project requirements with ease and delivered a seamless, functional website. His problem-solving skills were exactly what we needed.',
     },
     {
         id: 4,
@@ -52,7 +52,7 @@ export const clientReviews = [
         position: 'CEO of BrightStar Enterprises',
         img: 'assets/review4.png',
         review:
-            'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
+          'Agung was fantastic to work with. He understood our needs thoroughly and delivered a website that went above and beyond our expectations. His frontend and backend skills are top-notch.',
     },
 ];
 
